@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('../fonts/Outfit-Bold.eot');
+    src: url('../fonts/Outfit-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Outfit-Bold.woff2') format('woff2'),
+        url('../fonts/Outfit-Bold.woff') format('woff'),
+        url('../fonts/Outfit-Bold.ttf') format('truetype'),
+        url('../fonts/Outfit-Bold.svg#Outfit-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Outfit-r';
+    src: url('../fonts/Outfit-Regular.eot');
+    src: url('../fonts/Outfit-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Outfit-Regular.woff2') format('woff2'),
+        url('../fonts/Outfit-Regular.woff') format('woff'),
+        url('../fonts/Outfit-Regular.ttf') format('truetype'),
+        url('../fonts/Outfit-Regular.svg#Outfit-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
